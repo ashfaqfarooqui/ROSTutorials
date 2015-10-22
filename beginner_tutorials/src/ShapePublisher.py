@@ -18,7 +18,7 @@ def main():
         #Add code here
         rospy.spin() #This will block termination of the program. It can be replaced by rospy.sleep(s), to repeate the while loop every s seconds
 
- """ Use the method as a callback from the service"""
+""" Use the method as a callback from the service"""
 #def handleShapeSelector(msg):
 #    return shapeSelectorResponse() 
 
