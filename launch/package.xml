@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>beginner_tutorials_launch</name>
+  <version>0.0.0</version>
+  <description>The beginner_tutorials launch package</description>
+
+
+
+  <license>unlicensed</license>
+
+  <author email="ashfaq.farooqui@gmail.com">Ashfaq Farooqui</author>
+  <maintainer email="ashfaq.farooqui@gmail.com">Ashfaq Farooqui</maintainer>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roar_msg</run_depend>
+
+
+  <export>
+  </export>
+</package>
