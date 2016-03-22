@@ -1,0 +1,4 @@
+<launch>
+  <node name="listener" pkg="rostutorials" type="listener.py" output="screen"/>
+  <node name="talker" pkg="rostutorials" type="talker.py" output="screen"/>
+</launch>
